@@ -8,8 +8,7 @@ theme = 'paper'
   # color style
   color = 'linen'                           # linen, wheat, gray, light
 
-  # header social icons
-  rss = true                                # show rss icon
+  # header social icons                           # show rss icon
 
   # home page profile
   avatar = 'https://youniqiaofu.com/images/avatar.png'                 # gravatar email or image url
