@@ -23,4 +23,4 @@ tags = [
 
 【其他说明】HarmonyOS NEXT上的HiCar当前随系统版本更新，预计25年底可能会独立更新，敬请期待~
 
-【历史消息】本频道历史消息请访问https://news.hicar.cool/
+【下载地址】[https://www.hicar.cool/download/](https://www.hicar.cool/download/)
